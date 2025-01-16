@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	int i=20;
-	int j=40;
+	int j=30;
 	String s="Rajnedra";
 
 	public static void main(String[] args) {
