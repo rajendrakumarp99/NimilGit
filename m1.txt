@@ -1,4 +1,4 @@
 Class Rajendra{
 
-int i=10;
+first line data
 }
