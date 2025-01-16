@@ -1,6 +1,4 @@
 Class{
 
 int i=1233;
-int j=20;
 }
-
